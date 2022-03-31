@@ -26,7 +26,8 @@ function setPageBackgroundColor() {
       left: 0;
       width: 100vw;
       height: 100vh;
-      background-color: white;
+      background-color: #67645e;
+      opacity: .5;
       mix-blend-mode: difference;
       z-index: 1;
   `
